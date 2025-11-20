@@ -1,0 +1,23 @@
+# Visual Studio cache
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# MonoGame pipeline cache
+*.mgcontent
+*.mgcb.tmp
+
+# Backup files
+*.db
+*.log
+
+# NuGet
+packages/
+*.nupkg
+
+# Others
+Thumbs.db
